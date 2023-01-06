@@ -1,6 +1,7 @@
 [submodule "ns3-fl-network"]
 	path = ns3-fl-network
 	url = https://github.com/halsimov/ns3-fl-network.git
+	branch = flsim-bridge-as-submodule
 [submodule "flsim"]
 	path = flsim
 	url = https://github.com/halsimov/flsim.git
