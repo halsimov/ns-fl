@@ -10,7 +10,7 @@ Ns3-fl also contains an power module which computes the computational time, powe
 To install ns3-fl, first clone the respository. To clone the submodules, run 
 
     cd ns3-fl
-    git submodule update --init --recursive
+    git submodule update --init --recursive --remote
     
 Next, install [Anaconda](https://www.anaconda.com/products/individual). 
 
